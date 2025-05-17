@@ -78,6 +78,6 @@ To experiment with **UDP**, use `socket.SOCK_DGRAM` instead — but be aware, UD
 
 **Priyadharshan Vadivel**
 Cybersecurity Student & Solo Builder
-[LinkedIn](https://www.linkedin.com/priyan37) 
+[LinkedIn](https://www.linkedin.com/in/priyan37/) 
 
 ---
