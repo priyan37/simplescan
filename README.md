@@ -17,13 +17,13 @@
 ```bash
 # Clone the repo
 git clone https://github.com/priyan37/simplescan.git
-cd port-scanner
+cd simplescan
 
 # Make sure Python 3 is installed
 python3 --version
 
 # Run the script
-python3 scanner.py
+python3 simplescan.py
 ```
 ---
 
